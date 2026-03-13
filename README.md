@@ -1,6 +1,7 @@
 Please note - This repository contains a redacted version of the project. Proprietary prompts and datasets have been removed.
 Please contact me if you would like access to the full implementation. 
-This ReadMe also has an image towards the end that explains the architecture. 
+
+![BMRI Pipeline Architecture](docs/Agent Architecture.png)
 
 # BMRI Intelligence Pipeline
 
