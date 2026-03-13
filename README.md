@@ -34,7 +34,7 @@ Outputs include:
 
 The pipeline is organized as a sequence of specialized agents and deterministic analytics layers. Retrieval narrows evidence before LLM use, critic agents validate intermediate outputs, and final transition logic is rule-based rather than model-driven.
 
-![BMRI Pipeline Architecture](docs/Agent%20Architecture.png) 
+![BMRI Pipeline Architecture](docs/Agent-Architecture.png) 
 
 ---
 
