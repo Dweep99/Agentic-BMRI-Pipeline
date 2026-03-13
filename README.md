@@ -1,6 +1,9 @@
 Please note - This repository contains a redacted version of the project. Proprietary prompts and datasets have been removed.
 If you would like access to the full implementation, you can contact me at dweep.sanghavi@whu.edu
 
+## Code (Redacted)
+The redacted implementation is here: **[`bmri_agent_redacted.ipynb`](bmri_agent_redacted.ipynb)**.
+
 # BMRI Intelligence Pipeline
 
 A multi-agent AI pipeline for detecting business model reinvention from SEC 10-K filings. The system processes multi-year company disclosures, extracts structured business model evidence, classifies reinvention types, computes deterministic transition signals, and generates year-by-year strategic evolution outputs.
