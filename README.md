@@ -6,7 +6,7 @@ The redacted implementation is here: **[`bmri_agent_redacted.ipynb`](bmri_agent_
 
 # BMRI Intelligence Pipeline
 
-A multi-agent AI pipeline for detecting business model reinvention from SEC 10-K filings. The system processes multi-year company disclosures, extracts structured business model evidence, classifies reinvention types, computes deterministic transition signals, and generates year-by-year strategic evolution outputs.
+A multi-agent AI pipeline for detecting **business model reinvention** from SEC 10-K filings. The system processes multi-year company disclosures, extracts structured business model evidence, classifies reinvention types, computes deterministic transition signals, and generates year-by-year strategic evolution outputs.
 
 This repository is shared as a portfolio project. It demonstrates the architecture, analytics, and engineering design of the system while excluding proprietary prompt packs and the underlying dataset.
 
