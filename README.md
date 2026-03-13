@@ -1,7 +1,5 @@
 Please note - This repository contains a redacted version of the project. Proprietary prompts and datasets have been removed.
-Please contact me if you would like access to the full implementation. 
-
-![BMRI Pipeline Architecture](docs/Agent%20Architecture.png) 
+If you would like access to the full implementation, you can contact me at dweep.sanghavi@whu.edu
 
 # BMRI Intelligence Pipeline
 
@@ -31,9 +29,9 @@ Outputs include:
 
 ## Architecture
 
-![BMRI Pipeline Architecture](docs/architecture.png)
-
 The pipeline is organized as a sequence of specialized agents and deterministic analytics layers. Retrieval narrows evidence before LLM use, critic agents validate intermediate outputs, and final transition logic is rule-based rather than model-driven.
+
+![BMRI Pipeline Architecture](docs/Agent%20Architecture.png) 
 
 ---
 
@@ -233,7 +231,6 @@ For each company, the pipeline produces structured outputs such as:
 | `editor_changelog.json` | Structured record of report edits |
 
 ---
-<img width="882" height="944" alt="image" src="https://github.com/user-attachments/assets/63120c30-f4d0-4c72-b7e4-0c541a0f0eb2" />
 
 ## Technology Stack
 
