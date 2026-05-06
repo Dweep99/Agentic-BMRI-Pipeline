@@ -1,4 +1,4 @@
-Please note - This repository contains a redacted version of the project. Proprietary prompts and datasets have been removed.
+Please note - This repository contains a redacted version of the project. Proprietary prompts and datasets have been removed. This paper was accepted at the Strategic Management Conference (2026). 
 If you would like access to the full implementation, you can contact me at dweep.sanghavi@whu.edu
 
 ## Code (Redacted)
